@@ -17,7 +17,7 @@ class Chanapha:
     name       = "Chanapha Artdon (ชนาภา อาจด่อน)"
     nickname   = "Bright ✨"
     university = "Naresuan University"
-    major      = "B.Sc. Information Technology (Year 3)"
+    major      = "B.Sc. Information Technology (Year 4)"
     gpa        = 3.56
     location   = "Lopburi, Thailand 🇹🇭"
     interests  = ["Business Systems", "System Design", "Data Science", "AI", "Software Tester", "UI/UX"]
@@ -62,6 +62,7 @@ class Chanapha:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Business Analysis](https://img.shields.io/badge/Business_Analysis-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
 
 </div>
 
