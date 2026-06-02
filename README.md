@@ -62,7 +62,6 @@ class Chanapha:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Business Analysis](https://img.shields.io/badge/Business_Analysis-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
 
 </div>
 
@@ -134,8 +133,8 @@ class Chanapha:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ChanaphaBr&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanaphaBr&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=br389-boo&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br389-boo&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED" />
 </div>
 
 ---
