@@ -97,7 +97,7 @@ class Chanapha:
 ---
 
 ### 🛒 Boomerang Cartoon Website *(Web Technology — 2567)*
-> Solo project — Full website built independently
+> Solo project — Full website built independently | 🌐 [Live Demo](https://bboomerang.netlify.app/)
 
 - 🎨 Designed with **HTML, CSS, JavaScript**
 - 📱 User-friendly interface with cartoon-themed UI
