@@ -14,13 +14,13 @@
 
 ```python
 class Chanapha:
-    name       = "Chanapha Artdon (ชนาภา อาจด้อน)"
+    name       = "Chanapha Artdon (ชนาภา อาจด่อน)"
     nickname   = "Bright ✨"
     university = "Naresuan University"
     major      = "B.Sc. Information Technology (Year 3)"
     gpa        = 3.56
     location   = "Lopburi, Thailand 🇹🇭"
-    interests  = ["Business Systems", "System Design", "Data Science", "AI", "UI/UX"]
+    interests  = ["Business Systems", "System Design", "Data Science", "AI", "Software Tester", "UI/UX"]
     contact    = "chanapha.artdon@gmail.com"
 ```
 
