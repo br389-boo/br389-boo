@@ -18,7 +18,7 @@ class Chanapha:
     nickname   = "Bright ✨"
     university = "Naresuan University"
     major      = "B.Sc. Information Technology (Year 4)"
-    gpa        = 3.56
+    gpa        = 3.59
     location   = "Lopburi, Thailand 🇹🇭"
     interests  = ["Business Systems", "System Design", "Data Science", "AI", "Software Tester", "UI/UX"]
     contact    = "chanapha.artdon@gmail.com"
