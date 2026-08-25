@@ -96,7 +96,7 @@ class Chanapha:
 
 ---
 
-### 🛒 Boomerang Cartoon Website *(Web Technology — 2567)*
+### 🛒 Boomerang Cartoon Website *(Web Technology — 2024)*
 > Solo project — Full website built independently | 🌐 [Live Demo](https://bboomerang.netlify.app/)
 
 - 🎨 Designed with **HTML, CSS, JavaScript**
@@ -105,7 +105,7 @@ class Chanapha:
 
 ---
 
-### 🌊 Blue Ocean Aquarium *(Interactive Web Project — 2569)*
+### 🌊 Blue Ocean Aquarium *(Interactive Web Project — 2026)*
 
 > Solo project — Interactive online aquarium website | 🌐 [Live Demo](https://blue-ocean-aquarium.netlify.app/)
 
