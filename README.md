@@ -105,6 +105,16 @@ class Chanapha:
 
 ---
 
+### 🌊 Blue Ocean Aquarium *(Interactive Web Project — 2569)*
+
+> Solo project — Interactive online aquarium website | 🌐 [Live Demo](https://blue-ocean-aquarium.netlify.app/)
+
+* 🐠 Interactive aquarium featuring **12 ocean creatures** with educational information
+* 🛍️ Interactive gift shop with **ocean-creature keychains and shopping cart**
+* 🎨 Designed with **HTML, CSS, and JavaScript** with an immersive underwater UI
+
+---
+
 ### 🔬 Volunteer Activity Management System *(Undergraduate Research)*
 > Designing a web system for Naresuan University students
 
@@ -130,14 +140,6 @@ class Chanapha:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=br389-boo&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br389-boo&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED" />
-</div>
-
----
 
 ## 🌐 Connect with Me
 
